@@ -1,0 +1,36 @@
+The total number of tasks assigned to admin: 2
+The percentage of the total number of tasks that have been assigned to admin: 33.33%
+The percentage of the tasks assigned to admin that have been completed: 16.67%
+The percentage of the tasks assigned to admin that must still be completed: 16.67%
+The percentage of the tasks assigned to admin that have not yet been completed and are overdue: 16.67%
+==================================End of the admin data===============================================
+The total number of tasks assigned to prasanth: 2
+The percentage of the total number of tasks that have been assigned to prasanth: 33.33%
+The percentage of the tasks assigned to prasanth that have been completed: 0.0%
+The percentage of the tasks assigned to prasanth that must still be completed: 33.33%
+The percentage of the tasks assigned to prasanth that have not yet been completed and are overdue: 16.67%
+==================================End of the prasanth data===============================================
+The total number of tasks assigned to pperiyannan: 0
+The percentage of the total number of tasks that have been assigned to pperiyannan: 0.0%
+The percentage of the tasks assigned to pperiyannan that have been completed: 0.0%
+The percentage of the tasks assigned to pperiyannan that must still be completed: 0.0%
+The percentage of the tasks assigned to pperiyannan that have not yet been completed and are overdue: 0.0%
+==================================End of the pperiyannan data===============================================
+The total number of tasks assigned to periyannanp: 1
+The percentage of the total number of tasks that have been assigned to periyannanp: 16.67%
+The percentage of the tasks assigned to periyannanp that have been completed: 0.0%
+The percentage of the tasks assigned to periyannanp that must still be completed: 16.67%
+The percentage of the tasks assigned to periyannanp that have not yet been completed and are overdue: 16.67%
+==================================End of the periyannanp data===============================================
+The total number of tasks assigned to super_user: 0
+The percentage of the total number of tasks that have been assigned to super_user: 0.0%
+The percentage of the tasks assigned to super_user that have been completed: 0.0%
+The percentage of the tasks assigned to super_user that must still be completed: 0.0%
+The percentage of the tasks assigned to super_user that have not yet been completed and are overdue: 0.0%
+==================================End of the super_user data===============================================
+The total number of tasks assigned to rety: 0
+The percentage of the total number of tasks that have been assigned to rety: 0.0%
+The percentage of the tasks assigned to rety that have been completed: 0.0%
+The percentage of the tasks assigned to rety that must still be completed: 0.0%
+The percentage of the tasks assigned to rety that have not yet been completed and are overdue: 0.0%
+==================================End of the rety data===============================================

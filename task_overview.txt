@@ -1,0 +1,6 @@
+The total number of tasks that have been generated and tracked using the task_manager.py: 6
+The total number of completed tasks: 1
+The total number of uncompleted tasks: 5
+The total number of tasks that haven't been completed and that are overdue: 3
+The percentage of tasks that are incomplete: 83.33%
+The percentage of tasks that are overdue: 50.0%
